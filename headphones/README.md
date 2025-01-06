@@ -1,0 +1,1 @@
+A responsive web page showcasing a wide range of headphones
